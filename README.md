@@ -1,5 +1,3 @@
-# Weather_App
-
 ## About
 
 The Weather App is a simple web application that allows users to access real-time weather information for their current location or search for weather details in any city worldwide. This project uses HTML, CSS, and JavaScript to create an intuitive and user-friendly interface for weather data retrieval.

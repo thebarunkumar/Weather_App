@@ -1,3 +1,11 @@
+<h1 align="center"><b>Weather App </b></h1>
+<h1 align="center"><b>
+
+![weatherJavaScript](https://github.com/thebarunkumar/weather_app/assets/77458180/9f87cdc5-c1a8-4c6c-91c4-d0be0136c78e)
+  
+</b></h1>
+
+
 ## About
 
 The Weather App is a simple web application that allows users to access real-time weather information for their current location or search for weather details in any city worldwide. This project uses HTML, CSS, and JavaScript to create an intuitive and user-friendly interface for weather data retrieval.
